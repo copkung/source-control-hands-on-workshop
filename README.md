@@ -27,7 +27,7 @@ You should see something like the below image.
 
  ![git-status](https://user-images.githubusercontent.com/4034609/53856161-6c71fd00-4003-11e9-8e0d-c63947e63588.png)
 
- Notice that here Git sees 2 new **untracked files**.
+ Notice that here Git sees 2 new untracked files.
 
 ## Files status
 ### Untracked Files
